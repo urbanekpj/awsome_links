@@ -2,7 +2,6 @@
 storage for all interesting links gathered to read
 
 
-
 # Programing
 ## testing
 * [LibFuzzer – a library for coverage-guided fuzz testing](llvm.org/docs/LibFuzzer.html)
@@ -32,16 +31,19 @@ storage for all interesting links gathered to read
 
 ## In field 
 * [brakepad](https://github.com/google/breakpad)
+* [bugsplat](https://www.bugsplat.com)
 * [QT + google analitcs](http://www.sunandblackcat.com/tipFullView.php?l=eng&topicid=17)
 * [QT + google analitcs](https://www.ics.com/blog/using-google-analytics-monitor-qt-applications)
 * [QT + google analitcs](https://www.ics.com/blog/using-google-analytics-monitor-qt-applications-part-2)
-
 * [A service for automated crash-dump analysis](https://github.com/Dynatrace/superdump)
 
 ## Misc 
 * [Include What You See](https://github.com/include-what-you-use/include-what-you-use)
 * [VCPKG - VS build system](https://github.com/Microsoft/vcpkg)
 * [awsome cmake](https://github.com/onqtam/awesome-cmake)
+* [Squirrel- update mechanism for app](https://github.com/Squirrel/Squirrel.Windows)
+* [Export a Command Line cURL Command to an Executable](https://austingwalters.com/export-a-command-line-curl-command-to-an-executable/)
+* [vs code](https://code.visualstudio.com)
 
 ## libs 
 *[pybind11 — Seamless operability between C++11 and Python](http://pybind11.readthedocs.io/en/master/index.html)
@@ -49,6 +51,12 @@ storage for all interesting links gathered to read
 * [boost.UI](https://github.com/kosenko/ui)
 
 # Electronics 
+## Parts
+* [FC-28](https://botland.com.pl/czujniki-wilgotnosci/1588-czujnik-wilgotnosci-gleby.html)
+* [1-Wire_Quad_AD_Converter](https://www.researchgate.net/publication/237009276_Tiny_AVR_emulates_Dallas_DS2450_1-Wire_Quad_AD_Converter)
+
+## stuff
+* [home-assistant](https://home-assistant.io)
 
 # To read 
 ## Go
@@ -60,8 +68,10 @@ storage for all interesting links gathered to read
 * [How To Stay Sane with Modern C++](http://www.bfilipek.com/2017/02/how-to-stay-sane-with-modern-c.html#too-slow-pace)
 * [ksinica](https://github.com/ksinica)
 * [zipfs](https://github.com/bazil/zipfs)
+* [mp3fs](https://khenriks.github.io/mp3fs/)
 * [Effective Python](https://effectivepython.com)
-
+* [Windows Hypervisor Platform](https://docs.microsoft.com/en-us/virtualization/api/)
+* [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
 ## stuff
 * [hacks its way into RTSP videosurveillance cameras](https://github.com/Ullaakut/cameradar)
@@ -71,3 +81,9 @@ storage for all interesting links gathered to read
 * [scrum antipatterns](https://age-of-product.com/scrum-sprint-planning-anti-patterns/)
 * [Play by Play: Moving the NYT Games Platform to GCP With Zero Downtime](https://open.nytimes.com/play-by-play-moving-the-nyt-games-platform-to-gcp-with-zero-downtime-cf425898d569)
 
+## other awsome lists
+* [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+* [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
+* [fnc12](github.com/fnc12/awesome-cpp)
+* [wesome-cpp.readthedocs](http://awesome-cpp.readthedocs.io/en/latest/README.html#)
+* [uhub](https://github.com/uhub/awesome-cpp)

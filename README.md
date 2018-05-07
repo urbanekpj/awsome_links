@@ -19,6 +19,7 @@ storage for all interesting links gathered to read
 * [nlohmann](https://github.com/nlohmann/json)
 * [nlohmann std_json](https://github.com/nlohmann/std_json/blob/master/proposal.md)
 * [A header-only C++ parsing framework, any format](https://github.com/FrancoisChabot/abulafia)
+* [windows registry](https://github.com/GiovanniDicanio/WinReg) 
 
 ## Algorithms
 * [Data structures and algorithms problems in C++ using STL](http://www.techiedelight.com/data-structures-and-algorithms-interview-questions-stl/)
@@ -46,7 +47,7 @@ storage for all interesting links gathered to read
 * [vs code](https://code.visualstudio.com)
 
 ## libs 
-*[pybind11 — Seamless operability between C++11 and Python](http://pybind11.readthedocs.io/en/master/index.html)
+* [pybind11 — Seamless operability between C++11 and Python](http://pybind11.readthedocs.io/en/master/index.html)
 * [Abseil, a new common libraries project](https://opensource.googleblog.com/2017/09/introducing-abseil-new-common-libraries.html)
 * [boost.UI](https://github.com/kosenko/ui)
 

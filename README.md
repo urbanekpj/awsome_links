@@ -73,6 +73,7 @@ storage for all interesting links gathered to read
 * [Effective Python](https://effectivepython.com)
 * [Windows Hypervisor Platform](https://docs.microsoft.com/en-us/virtualization/api/)
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+* [https://cppinsights.io](https://cppinsights.io)
 
 ## stuff
 * [hacks its way into RTSP videosurveillance cameras](https://github.com/Ullaakut/cameradar)

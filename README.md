@@ -47,6 +47,7 @@ storage for all interesting links gathered to read
 * [Export a Command Line cURL Command to an Executable](https://austingwalters.com/export-a-command-line-curl-command-to-an-executable/)
 * [vs code](https://code.visualstudio.com)
 * [sqlite3-extras](https://github.com/SeanTater/sqlite3-extras)
+* [whatstyle - get fomater config from codebase(astyle clang-fromat etc)](https://github.com/mikr/whatstyle)
 
 ## libs 
 * [pybind11 — Seamless operability between C++11 and Python](http://pybind11.readthedocs.io/en/master/index.html)

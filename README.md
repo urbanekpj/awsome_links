@@ -18,6 +18,8 @@ storage for all interesting links gathered to read
 * [spotify-json](https://github.com/spotify/spotify-json)
 * [nlohmann](https://github.com/nlohmann/json)
 * [nlohmann std_json](https://github.com/nlohmann/std_json/blob/master/proposal.md)
+* [json schema](https://github.com/tristanpenman/valijson)
+* [NamedType](https://github.com/joboccara/NamedType)
 * [A header-only C++ parsing framework, any format](https://github.com/FrancoisChabot/abulafia)
 * [windows registry](https://github.com/GiovanniDicanio/WinReg) 
 * [fmt](https://github.com/fmtlib/fmt)

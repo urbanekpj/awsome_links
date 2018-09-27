@@ -46,6 +46,7 @@ storage for all interesting links gathered to read
 * [VCPKG - VS build system](https://github.com/Microsoft/vcpkg)
 * [awsome cmake](https://github.com/onqtam/awesome-cmake)
 * [Squirrel- update mechanism for app](https://github.com/Squirrel/Squirrel.Windows)
+* [Updater omaha](https://github.com/Crystalnix/omaha)
 * [Export a Command Line cURL Command to an Executable](https://austingwalters.com/export-a-command-line-curl-command-to-an-executable/)
 * [vs code](https://code.visualstudio.com)
 * [sqlite3-extras](https://github.com/SeanTater/sqlite3-extras)

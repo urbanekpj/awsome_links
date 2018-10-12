@@ -62,6 +62,7 @@ storage for all interesting links gathered to read
 * [minitrace](https://github.com/hrydgard/minitrace)
 * [tracy](https://bitbucket.org/wolfpld/tracy)
 * [easy_profiler](https://github.com/yse/easy_profiler)
+* [maunal](https://preshing.com/20111203/a-c-profiling-module-for-multithreaded-apis/)
 
 # Electronics 
 ## Parts

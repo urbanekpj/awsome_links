@@ -51,6 +51,7 @@ storage for all interesting links gathered to read
 * [vs code](https://code.visualstudio.com)
 * [sqlite3-extras](https://github.com/SeanTater/sqlite3-extras)
 * [whatstyle - get fomater config from codebase(astyle clang-fromat etc)](https://github.com/mikr/whatstyle)
+* [gitflow-avh](https://github.com/petervanderdoes/gitflow-avh)
 
 ## libs 
 * [pybind11 — Seamless operability between C++11 and Python](http://pybind11.readthedocs.io/en/master/index.html)
@@ -64,14 +65,6 @@ storage for all interesting links gathered to read
 * [tracy](https://bitbucket.org/wolfpld/tracy)
 * [easy_profiler](https://github.com/yse/easy_profiler)
 * [maunal](https://preshing.com/20111203/a-c-profiling-module-for-multithreaded-apis/)
-
-# Electronics 
-## Parts
-* [FC-28](https://botland.com.pl/czujniki-wilgotnosci/1588-czujnik-wilgotnosci-gleby.html)
-* [1-Wire_Quad_AD_Converter](https://www.researchgate.net/publication/237009276_Tiny_AVR_emulates_Dallas_DS2450_1-Wire_Quad_AD_Converter)
-
-## stuff
-* [home-assistant](https://home-assistant.io)
 
 # To read 
 ## Go

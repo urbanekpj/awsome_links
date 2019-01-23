@@ -57,6 +57,7 @@ storage for all interesting links gathered to read
 * [Abseil, a new common libraries project](https://opensource.googleblog.com/2017/09/introducing-abseil-new-common-libraries.html)
 * [boost.UI](https://github.com/kosenko/ui)
 * [forward-to-member](https://github.com/jonesinator/forward-to-member)
+* [inja](https://github.com/pantor/inja)
 
 ## profiler
 * [minitrace](https://github.com/hrydgard/minitrace)

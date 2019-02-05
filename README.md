@@ -67,6 +67,11 @@ storage for all interesting links gathered to read
 * [maunal](https://preshing.com/20111203/a-c-profiling-module-for-multithreaded-apis/)
 
 # To read 
+## Books
+* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html)
+* [Site Reliability](https://landing.google.com/sre/books/)
+
 ## Go
 * [Logrus](https://github.com/sirupsen/logrus)
 * [authboss](https://github.com/volatiletech/authboss)

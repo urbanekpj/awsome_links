@@ -41,6 +41,7 @@ storage for all interesting links gathered to read
 * [QT + google analitcs](https://www.ics.com/blog/using-google-analytics-monitor-qt-applications)
 * [QT + google analitcs](https://www.ics.com/blog/using-google-analytics-monitor-qt-applications-part-2)
 * [A service for automated crash-dump analysis](https://github.com/Dynatrace/superdump)
+* [CI helloworld](https://github.com/ainfosec/ci_helloworld)
 
 ## Misc 
 * [Include What You See](https://github.com/include-what-you-use/include-what-you-use)

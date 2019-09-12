@@ -104,4 +104,5 @@ storage for all interesting links gathered to read
 * [wesome-cpp.readthedocs](http://awesome-cpp.readthedocs.io/en/latest/README.html#)
 * [uhub](https://github.com/uhub/awesome-cpp)
 * [single file libs](https://github.com/nothings/single_file_libs)
+* [Erik Rigtorp](https://github.com/rigtorp/awesome-modern-cpp)
 
